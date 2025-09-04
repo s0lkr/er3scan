@@ -1,0 +1,5 @@
+httpx[http2]
+aiodns
+rich
+pandas
+matplotlib  # opcional, apenas se usar monitor de RPS OPSEC
